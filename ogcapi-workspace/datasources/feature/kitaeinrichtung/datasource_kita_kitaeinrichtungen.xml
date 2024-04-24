@@ -43,7 +43,7 @@
     </Primitive>
     <Primitive mapping="leistungsart_name" path="Leistungsarten" />
     <Geometry mapping="the_geom" path="geom">
-      <StorageCRS srid="25832">EPSG:25832</StorageCRS>
+      <StorageCRS srid="4326">EPSG:4326</StorageCRS>
     </Geometry>
   </FeatureTypeMapping>
 </SQLFeatureStore>
