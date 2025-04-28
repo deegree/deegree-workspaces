@@ -12,7 +12,7 @@
     <!-- [1]: WMS request parameters -->
     <RequestParams>
       <!-- [1] Comma-separated list of layer names -->
-      <Layers>AU.AdministrativeUnit</Layers>
+      <Layers>WMS_NW_DOP_OVERLAY</Layers>
       <!-- [0..1] Comma-separated list of styles -->
       <Styles>default</Styles>
       <!-- [1] Image format -->
